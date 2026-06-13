@@ -65,7 +65,7 @@ Seeking opportunities in Data Analytics, Business Intelligence, and Reporting ro
 
 ## Connect With Me
 
-**LinkedIn:** [Nisha](https://www.linkedin.com/in/nisha-singh-29210b22b/)
+**LinkedIn:** [Nisha Singh](https://www.linkedin.com/in/nisha-singh-29210b22b/)
 
 **GitHub:** [nisha-analytics](https://github.com/nisha-analytics/Data-Analytics-Portfolio)
  
