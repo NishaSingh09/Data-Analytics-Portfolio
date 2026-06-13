@@ -13,7 +13,5 @@ Aspiring Data Analyst with experience in MIS Reporting, Power BI, Dashboard Deve
 
 ## Projects 
 
-### Loan Analysis Dashboard 
-### Sales Dashboard 
-### Operations MIS Dashboard 
-### SCSS Dashboard
+### E-Commerce Sales Dashboard 
+
