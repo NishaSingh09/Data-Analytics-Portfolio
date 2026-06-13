@@ -11,10 +11,10 @@ This Power BI dashboard analyzes e-commerce sales performance.
 
 ## Key Metrics
 
-- Sales
-- Profit
-- Quantity
-- Orders
+- Total Sales: 438K
+- Total Profit: 37K
+- Total Quantity Sold: 6K
+- Average Order Value: 120.9K
 
 ## Dashboard Preview
 
