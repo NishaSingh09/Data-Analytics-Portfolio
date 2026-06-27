@@ -57,5 +57,5 @@ This dashboard provides insights into loan quality by comparing funded amounts, 
 ## Project Files
 
 * Power BI Dashboard (.pbix)
+* Dashboards (.png)
 * Dataset (.xlsx)
-* Project Presentation (.pptx)
