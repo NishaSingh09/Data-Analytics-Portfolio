@@ -46,13 +46,13 @@ This dashboard provides insights into loan quality by comparing funded amounts, 
 * Identified major loan purposes driving application volume.
 * Analyzed borrower risk indicators such as DTI and Interest Rate.
 
-## Overview Dashboard
-
-![Overview Dashboard](Dashboard(Overview).png)
-
 ## Summary Dashboard
 
 ![Summary Dashboard](Dashboard(Summary).png)
+
+## Overview Dashboard
+
+![Overview Dashboard](Dashboard(Overview).png)
 
 ## Project Files
 
